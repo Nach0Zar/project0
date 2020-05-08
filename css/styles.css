@@ -1,3 +1,8 @@
+body{
+    background-image: url(../img/background.jpg);
+    margin: 0;
+    
+}
 .menu{
     background: #3b7687;
     padding: 5px 0 5px 40px;
