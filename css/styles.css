@@ -75,7 +75,8 @@ footer a:hover{
 #paras p{
     padding: 0 0 0 5px;
 }
-h2{
+li{
+    font-size: 23px;
     color: #3b7687;
     margin: 20px 0 5px 0;
 }
