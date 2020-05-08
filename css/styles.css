@@ -1,0 +1,17 @@
+.menu{
+    background: #3b7687;
+    padding: 5px 0 5px 40px;
+    margin: 0 5px 0 5px 0;
+    border: 1px solid black;
+}
+.menu a{
+    
+    color: #c5d6db;
+    text-decoration: none;
+    font-size: 14 px;
+    font-family: "Arial Narrow", "Myriad Pro";   
+}
+.menu a:hover{
+    
+    color:chocolate;
+}
