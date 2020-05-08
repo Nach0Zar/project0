@@ -57,3 +57,13 @@ footer a:hover{
     width: 93%;
     
 }
+#aboutBody #art-photo img{
+    width: 40%;
+    float: left;
+    margin-bottom: 30px;
+}
+#aboutBody #profileInfo {
+    float: right;
+    width: 40%;
+    margin: 5px;
+}
