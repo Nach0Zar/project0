@@ -15,3 +15,17 @@
     
     color:chocolate;
 }
+.main{
+    margin: 0 0 0 180px;
+    padding: 0 40px 30px 0;
+    color:#444444;
+    font-family: "Georgia";
+    font-size: 13px;
+    line-height: 19px;
+    text-emphasis: justify;
+    
+    
+}
+.main a:hover{
+    color: #444444;
+}
