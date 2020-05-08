@@ -80,3 +80,8 @@ li{
     color: #3b7687;
     margin: 20px 0 5px 0;
 }
+.my-Col{
+    border: 1px solid black;
+    text-align: center;
+    font-family: "Times New Roman";
+}
