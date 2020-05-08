@@ -67,3 +67,15 @@ footer a:hover{
     width: 40%;
     margin: 5px;
 }
+#paras{
+    clear: both;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+#paras p{
+    padding: 0 0 0 5px;
+}
+h2{
+    color: #3b7687;
+    margin: 20px 0 5px 0;
+}
