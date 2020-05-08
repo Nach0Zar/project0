@@ -1,7 +1,12 @@
 body{
     background-image: url(../img/background.jpg);
     margin: 0;
-    
+}
+.container{
+    background: #F4F4F4;
+    WIDTH: 780PX;
+    margin: 0 auto;
+    border: 2px solid black;
 }
 .menu{
     background: #3b7687;
@@ -10,14 +15,12 @@ body{
     border: 1px solid black;
 }
 .menu a{
-    
     color: #c5d6db;
     text-decoration: none;
     font-size: 14 px;
     font-family: "Arial Narrow", "Myriad Pro";   
 }
 .menu a:hover{
-    
     color:chocolate;
 }
 .main{
@@ -28,9 +31,25 @@ body{
     font-size: 13px;
     line-height: 19px;
     text-emphasis: justify;
-    
-    
 }
 .main a:hover{
     color: #444444;
+}
+footer{
+    padding: 0 200px 5px 230px;
+    background: #3b7687;
+    border: 1px solid black;
+    font-family: "Lucida Sans Unicode";
+    font-size: 14px
+}
+footer a{
+    text-decoration: none;
+    color: blue;
+}
+footer a:hover{ 
+    color: darkviolet;
+}
+.fseparator{
+    color: black;
+    font-size: 11px;
 }
